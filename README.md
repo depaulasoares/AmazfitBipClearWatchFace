@@ -2,7 +2,7 @@
  Yep, just another watchface for [Amazfit Bip](https://en.amazfit.com/bip-lite.html).
 
  ## Why?
- I want a *clear*, simples, functional, good looking watchface for my Bip Lite. One that I can at-a-glance see what is really important to me:
+ I want a *clear*, simple, functional, good looking watchface for my Bip Lite. One that I can at-a-glance see what is really important to me:
  - Time on format HH:MM;
  - Date with weekday, month and day;
  - Battery: small but readable and meaningful representation;
