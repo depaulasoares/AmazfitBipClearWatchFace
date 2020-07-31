@@ -1,7 +1,14 @@
 # Recepies
 
+## Screen
+- Resolution: 176px x 176px
+- Screen size (diagonal): 1.28" or 32.512 mm
+- Screen size (square side) 0,905" or 22,989 mm
+- Density: 194,5 ppi or 7,7 pixels per mm
+
+(All the conversions to milimiters made by myself)
+
 ## Backgroung
-- Main background image have a size of 176px x 176px;
 - Colors:
     - Black 0x000000
     - Cyan 0x0000FF
@@ -12,4 +19,3 @@
     - Yellow 0xFFFF00
     - White 0xFFFFFF
     - Transparent 0xFEFE00
-
